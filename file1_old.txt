@@ -1,0 +1,8 @@
+This is old file one
+.
+
+I am gonna add this line here.
+
+Another line right here and here
+
+some more diff.

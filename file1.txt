@@ -1,1 +1,10 @@
 This is file one
+.
+
+Original file one.
+
+It is a boring file.
+
+I am gonna add this line here
+
+And othere here and here.
