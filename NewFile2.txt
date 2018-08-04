@@ -1,1 +1,2 @@
-Created New file 2. Adding content to new file 2
+Created New file 2. Adding content to new file 2. Modifying NewFile 2 in my VM as well.
+This got to work.

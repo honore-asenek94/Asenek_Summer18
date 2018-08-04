@@ -1,1 +1,2 @@
-This is new file 1. I just created this file.
+This is new file 1. I just created this file.  Adding some content to NewFile 1 in my VM.
+Lets see how this works. Hope it works.
